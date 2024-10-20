@@ -1,7 +1,8 @@
 https://github.com/Jennie-star/odin-recipes   ---->link for odin-recipes project repository
-Learnt abt tags(help the browser know where the element starts and ends) and elements(enclosed within tags)
-<!DOCTYPE html> and <html></html> compulsory 
-learnt how to add title<title>(within head)
+
+1.Learnt abt tags(help the browser know where the element starts and ends) and elements(enclosed within tags)
+2.<!DOCTYPE html> and <html></html> compulsory
+3.learnt how to add title<title>(within head)
 learnt how to add paragraphs<p>
 learnt how to add heading and alter its size
 learnt how to make text bold<strong>
