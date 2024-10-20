@@ -1,4 +1,4 @@
-https://github.com/Jennie-star/odin-recipes---->link for odin-recipes project repository
+https://github.com/Jennie-star/odin-recipes   ---->link for odin-recipes project repository
 Learnt abt tags(help the browser know where the element starts and ends) and elements(enclosed within tags)
 <!DOCTYPE html> and <html></html> compulsory 
 learnt how to add title<title>(within head)
