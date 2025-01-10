@@ -12,7 +12,7 @@ learnt how to group selectors with common properties, and how to chain selectors
 learnt to apply the following properties color(text color), background color,text align, font size, font family, font weight etc.
 learnt how to add color using various formats like rgb,hsl,hex and keyword.
 
-### **cascade**-helps determine which css rules get applied to html elements
+### **Cascade**-helps determine which css rules get applied to html elements
 3 cascade rules:
 specificity:helps determine which rule to apply when multiple declarations exist.
             inline styles have highest specificity.
@@ -20,3 +20,13 @@ specificity:helps determine which rule to apply when multiple declarations exist
             when same selectors are used the rule with more no. of selectors is chosen.
 inheritance:rules applied to parent element automatically transfer to child elements unless specifically targetted.
 rule order:if all the above given rules are unable to decide which rule is superior than the last defined rule is the one that is ultimately applied.
+
+### **Block and Inline**
+Css has two box models-block and inline
+block-new elements start from the next line.(E.g:div)
+inline-new elements continue from the same line as the elements beside them.(E.g:span)
+inline-block-elements with this display type behave like inline, but their padding and margin is similar to that of block.
+## **Div and Span**
+Div and span are elemnts that do not add an meaning to their content, or have any affect on they content enclose, and are used extensively to group elements under a single parent element, and be distinguished by giving class or id which helps in styling;
+div is used primarily to group block elements while span is used to group inline elements.
+
