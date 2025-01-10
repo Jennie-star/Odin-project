@@ -26,7 +26,7 @@ Css has two box models-block and inline
 block-new elements start from the next line.(E.g:div)
 inline-new elements continue from the same line as the elements beside them.(E.g:span)
 inline-block-elements with this display type behave like inline, but their padding and margin is similar to that of block.
-## **Div and Span**
+### **Div and Span**
 Div and span are elemnts that do not add an meaning to their content, or have any affect on they content enclose, and are used extensively to group elements under a single parent element, and be distinguished by giving class or id which helps in styling;
 div is used primarily to group block elements while span is used to group inline elements.
 
