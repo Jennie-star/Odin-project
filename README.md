@@ -39,9 +39,9 @@ A flex-item can a be a flex-conatiner as well.
 
 ### **Grow and Shrink**
 There are 3 properties of flex shorthand, namely:
-1.flex-grow:causes flex items in a flex container to increase in size by the assigned value.
-2.flex-shrink:if flex-items execeed the size of their respective flex container then this property helps them shrink by an assigned value.
-3.flex-basis:usually the flex shorthand ignores any width value provided and grows/shrinks based on the size of the container; when flex-basis is set to auto it ensures that the width value is taken into consideration.
+- flex-grow:causes flex items in a flex container to increase in size by the assigned value.
+- flex-shrink:if flex-items execeed the size of their respective flex container then this property helps them shrink by an assigned value.
+- flex-basis:usually the flex shorthand ignores any width value provided and grows/shrinks based on the size of the container; when flex-basis is set to auto it ensures that the width value is taken into consideration.
 
 ### **Axes**
 Flexbox has two axes-main axis and cross axis.
