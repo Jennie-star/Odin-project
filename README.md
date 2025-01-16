@@ -26,7 +26,14 @@ Css has two box models-block and inline
 block-new elements start from the next line.(E.g:div)
 inline-new elements continue from the same line as the elements beside them.(E.g:span)
 inline-block-elements with this display type behave like inline, but their padding and margin is similar to that of block.
+
 ### **Div and Span**
 Div and span are elemnts that do not add an meaning to their content, or have any affect on they content enclose, and are used extensively to group elements under a single parent element, and be distinguished by giving class or id which helps in styling;
 div is used primarily to group block elements while span is used to group inline elements.
+
+## **Flexbox** 
+flex-box is a tool used to position elements and works on the principle of flex-shrink/flex-grow to resize and fit and specific element.
+flex-container:any element that has display:flex property
+flex-item:any element inside the flex conatiner.
+a flex-item can a be a flex-conatiner as well.
 
