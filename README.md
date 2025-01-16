@@ -33,7 +33,7 @@ div is used primarily to group block elements while span is used to group inline
 
 ## **Flexbox** 
 flex-box is a tool used to position elements and works on the principle of flex-shrink/flex-grow to resize and fit and specific element.
-flex-container:any element that has display:flex property
-flex-item:any element inside the flex conatiner.
+-flex-container:any element that has display:flex property
+-flex-item:any element inside the flex conatiner.
 a flex-item can a be a flex-conatiner as well.
 
